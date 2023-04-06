@@ -1,3 +1,3 @@
 # LogicaDeProgramacaoComJava
 
-ATIVIDADES DE LOGICA EM JAVA PASSADAS NAS PRIMEIRAS AULAS NA ACADEMIA JAVA NA FUCTURA
+Atividades de Logica em JAVA Passadas nas Primeiras aulas na Academia JAVA no Curso Fuctura
